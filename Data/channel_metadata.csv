@@ -1,0 +1,6 @@
+channel_name,provider,channel_type,active_users,fees_per_txn
+POS,Interswitch,Physical,684015,14.65
+Web,Flutterwave,Online,1809149,19.38
+Apps,BankApp,Mobile App,1713417,8.33
+Cards,Verve,Card-based,587578,17.02
+USSD,MTN,Mobile,788847,17.61
